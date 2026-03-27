@@ -1,0 +1,11 @@
+ipykernel
+pandas
+numpy
+streamlit
+matplotlib
+seaborn
+plotly
+scikit-learn
+mlflow
+dvc
+dagshub

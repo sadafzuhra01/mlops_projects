@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5eb7de32afd14b6c9a9a90ff185289ac/artifacts
+end_time: 1757407057268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5eb7de32afd14b6c9a9a90ff185289ac
+run_name: nebulous-cod-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757407056810
+status: 3
+tags: []
+user_id: ACC

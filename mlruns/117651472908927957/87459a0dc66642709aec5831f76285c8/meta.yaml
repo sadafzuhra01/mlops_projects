@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/117651472908927957/87459a0dc66642709aec5831f76285c8/artifacts
+end_time: 1757407249299
+entry_point_name: ''
+experiment_id: '117651472908927957'
+lifecycle_stage: active
+run_id: 87459a0dc66642709aec5831f76285c8
+run_name: redolent-elk-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757407240156
+status: 3
+tags: []
+user_id: ACC
